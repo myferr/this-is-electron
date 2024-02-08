@@ -1,0 +1,11 @@
+{
+  "name": "this-is-electron",
+  "version": "1.0.0",
+  "description": "An electron application built with JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Myfer",
+  "license": "ISC"
+}
