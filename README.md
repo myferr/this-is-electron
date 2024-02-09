@@ -48,9 +48,11 @@ Using this JavaScript code my HTML file at `./src/gui/index.html` is ran as a de
 Electron is super easy to download using [NPM](https://www.npmjs.com/)!
 
 ◉ Installing NPM
-    ○ [Go here to install NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+    
+    	○ [Go here to install NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 ◉ Installing Electron.js
-	○ Enter in your command line `npm install electron`
+	
+ 	○ Enter in your command line `npm install electron`
 
 ## Setting up an Electron project
 
